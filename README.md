@@ -31,15 +31,16 @@
 | 题目                                                         | 解法                                | 难度 |
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
 | [1581. 进店却未进行过交易的顾客](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](join/customer-who-visited-but-did-not-make-any-transactions.md) |  简单    |
+| [175. 组合两个表](https://leetcode.cn/problems/combine-two-tables/) | [SQL](join/combine-two-tables.md) |  简单    |
 
 
 ## 合并
 
-## 计算函数
+## 函数
 | 题目                                                         | 解法                              | 难度 |
 | ------------------------------------------------------------ | --------------------------------- | ---- |
 | [511. 游戏玩法分析 I](https://leetcode.cn/problems/game-play-analysis-i/) | [SQL](function/game-play-analysis-i.md) | 简单     |
-
+| [1667. 修复表中的名字](https://leetcode.cn/problems/fix-names-in-a-table/) | [SQL](function/submissions.md) | 简单     |
 
 
 ## 条件判断
