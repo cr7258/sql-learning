@@ -11,9 +11,7 @@
 | 题目                                                         | 解法                                | 难度 |
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
 | [182. 查找重复的电子邮箱](https://leetcode.cn/problems/duplicate-emails/) | [SQL](group/duplicate-emails.md) |  简单    |
-
-
-
+| [1484. 按日期分组销售产品](https://leetcode.cn/problems/group-sold-products-by-the-date/) | [SQL](group/group-sold-products-by-the-date.md) |  简单    |
 
 ## 排序
 
@@ -32,7 +30,7 @@
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
 | [1581. 进店却未进行过交易的顾客](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](join/customer-who-visited-but-did-not-make-any-transactions.md) |  简单    |
 | [175. 组合两个表](https://leetcode.cn/problems/combine-two-tables/) | [SQL](join/combine-two-tables.md) |  简单    |
-
+| [181. 超过经理收入的员工](https://leetcode.cn/problems/employees-earning-more-than-their-managers/) | [SQL](join/employees-earning-more-than-their-managers.md) |  简单    |
 
 ## 合并
 
