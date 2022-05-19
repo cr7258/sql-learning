@@ -1,5 +1,5 @@
 思路：
-1.GROUP_CONCAT 函数组内拼接，根据 sell_date 分组
+1.GROUP_CONCAT 函数组内拼接，根据 sell_date 分组。
 
 ```sql
 select
