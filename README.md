@@ -25,12 +25,17 @@
 
 ## 正则表达式
 
+| 题目                                                         | 解法                                | 难度 |
+| ------------------------------------------------------------ | ----------------------------------- | ---- |
+| [1527. 患某种疾病的患者](https://leetcode.cn/problems/patients-with-a-condition/) | [SQL](regexp/patients-with-a-condition.md) |  简单    |
+
 ## 组合查询
 | 题目                                                         | 解法                                | 难度 |
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
 | [1581. 进店却未进行过交易的顾客](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](join/customer-who-visited-but-did-not-make-any-transactions.md) |  简单    |
 | [175. 组合两个表](https://leetcode.cn/problems/combine-two-tables/) | [SQL](join/combine-two-tables.md) |  简单    |
 | [181. 超过经理收入的员工](https://leetcode.cn/problems/employees-earning-more-than-their-managers/) | [SQL](join/employees-earning-more-than-their-managers.md) |  简单    |
+| [1965. 丢失信息的雇员](https://leetcode.cn/problems/employees-with-missing-information/) | [SQL](join/employees-with-missing-information.md) |  简单    |
 
 ## 合并
 
