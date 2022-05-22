@@ -36,6 +36,8 @@
 | [175. 组合两个表](https://leetcode.cn/problems/combine-two-tables/) | [SQL](join/combine-two-tables.md) |  简单    |
 | [181. 超过经理收入的员工](https://leetcode.cn/problems/employees-earning-more-than-their-managers/) | [SQL](join/employees-earning-more-than-their-managers.md) |  简单    |
 | [1965. 丢失信息的雇员](https://leetcode.cn/problems/employees-with-missing-information/) | [SQL](join/employees-with-missing-information.md) |  简单    |
+| [1795. 每个产品在不同商店的价格](https://leetcode.cn/problems/rearrange-products-table/) | [SQL](join/rearrange-products-table.md) |  简单    |
+| [183. 从不订购的客户](https://leetcode.cn/problems/customers-who-never-order/) | [SQL](join/customers-who-never-order.md) |  简单    |
 
 ## 合并
 
