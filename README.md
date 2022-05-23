@@ -46,7 +46,8 @@
 | ------------------------------------------------------------ | --------------------------------- | ---- |
 | [511. 游戏玩法分析 I](https://leetcode.cn/problems/game-play-analysis-i/) | [SQL](function/game-play-analysis-i.md) | 简单     |
 | [1667. 修复表中的名字](https://leetcode.cn/problems/fix-names-in-a-table/) | [SQL](function/submissions.md) | 简单     |
-
+| [176. 第二高的薪水](https://leetcode.cn/problems/second-highest-salary/) | [SQL](function/second-highest-salary.md) | 中等     |
+| [197. 上升的温度](https://leetcode.cn/problems/rising-temperature/) | [SQL](function/rising-temperature.md) | 简单     |
 
 ## 条件判断
 | 题目                                                         | 解法                                | 难度 |
