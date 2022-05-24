@@ -19,6 +19,7 @@
 | 题目                                                         | 解法                                | 难度 |
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
 | [627. 变更性别](https://leetcode.cn/problems/swap-salary/) | [SQL](update/swap-salary.md) |  简单    |
+| [196. 删除重复的电子邮箱](https://leetcode.cn/problems/delete-duplicate-emails/) | [SQL](update/delete-duplicate-emails.md) |  简单    |
 
 ## 字符串处理函数
 
@@ -53,6 +54,7 @@
 | 题目                                                         | 解法                                | 难度 |
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
 | [1873. 计算特殊奖金](https://leetcode.cn/problems/calculate-special-bonus/submissions/) | [SQL](condition/calculate-special-bonus.md) |  简单    |
+| [608. 树节点](https://leetcode.cn/problems/tree-node/) | [SQL](condition/tree-node.md) |  中等    |
 
 ## 过滤
 
