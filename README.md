@@ -50,6 +50,7 @@
 | [1667. 修复表中的名字](https://leetcode.cn/problems/fix-names-in-a-table/) | [SQL](function/submissions.md) | 简单     |
 | [176. 第二高的薪水](https://leetcode.cn/problems/second-highest-salary/) | [SQL](function/second-highest-salary.md) | 中等     |
 | [197. 上升的温度](https://leetcode.cn/problems/rising-temperature/) | [SQL](function/rising-temperature.md) | 简单     |
+| [1141. 查询近30天活跃用户数](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/) | [SQL](function/user-activity-for-the-past-30-days-i.md) | 简单     |
 
 ## 条件判断
 | 题目                                                         | 解法                                | 难度 |
