@@ -12,6 +12,7 @@
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
 | [182. 查找重复的电子邮箱](https://leetcode.cn/problems/duplicate-emails/) | [SQL](group/duplicate-emails.md) |  简单    |
 | [1484. 按日期分组销售产品](https://leetcode.cn/problems/group-sold-products-by-the-date/) | [SQL](group/group-sold-products-by-the-date.md) |  简单    |
+| [1693. 每天的领导和合伙人](https://leetcode.cn/problems/daily-leads-and-partners/) | [SQL](group/daily-leads-and-partners.md) |  简单    |
 
 ## 排序
 
@@ -45,6 +46,7 @@
 | [1795. 每个产品在不同商店的价格](https://leetcode.cn/problems/rearrange-products-table/) | [SQL](join/rearrange-products-table.md) |  简单    |
 | [183. 从不订购的客户](https://leetcode.cn/problems/customers-who-never-order/) | [SQL](join/customers-who-never-order.md) |  简单    |
 | [607. 销售员](https://leetcode.cn/problems/sales-person/) | [SQL](join/sales-person.md) |  简单    |
+| [577. 员工奖金](https://leetcode.cn/problems/employee-bonus/) | [SQL](join/employee-bonus.md) |  简单    |
 
 ## 合并
 
