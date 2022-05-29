@@ -47,6 +47,7 @@
 | [183. 从不订购的客户](https://leetcode.cn/problems/customers-who-never-order/) | [SQL](join/customers-who-never-order.md) |  简单    |
 | [607. 销售员](https://leetcode.cn/problems/sales-person/) | [SQL](join/sales-person.md) |  简单    |
 | [577. 员工奖金](https://leetcode.cn/problems/employee-bonus/) | [SQL](join/employee-bonus.md) |  简单    |
+| [1587. 银行账户概要 II](https://leetcode.cn/problems/bank-account-summary-ii/) | [SQL](join/bank-account-summary-ii.md) |  简单    |
 
 ## 合并
 
