@@ -13,6 +13,8 @@
 | [182. 查找重复的电子邮箱](https://leetcode.cn/problems/duplicate-emails/) | [SQL](group/duplicate-emails.md) |  简单    |
 | [1484. 按日期分组销售产品](https://leetcode.cn/problems/group-sold-products-by-the-date/) | [SQL](group/group-sold-products-by-the-date.md) |  简单    |
 | [1693. 每天的领导和合伙人](https://leetcode.cn/problems/daily-leads-and-partners/) | [SQL](group/daily-leads-and-partners.md) |  简单    |
+| [1741. 查找每个员工花费的总时间](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/) | [SQL](group/find-total-time-spent-by-each-employee.md) |  简单    |
+
 
 ## 排序
 
@@ -59,6 +61,7 @@
 | [176. 第二高的薪水](https://leetcode.cn/problems/second-highest-salary/) | [SQL](function/second-highest-salary.md) | 中等     |
 | [197. 上升的温度](https://leetcode.cn/problems/rising-temperature/) | [SQL](function/rising-temperature.md) | 简单     |
 | [1141. 查询近30天活跃用户数](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/) | [SQL](function/user-activity-for-the-past-30-days-i.md) | 简单     |
+| [597. 好友申请 I：总体通过率](https://leetcode.cn/problems/friend-requests-i-overall-acceptance-rate/submissions/) | [SQL](function/friend-requests-i-overall-acceptance-rate.md) | 简单     |
 
 ## 条件判断
 | 题目                                                         | 解法                                | 难度 |
