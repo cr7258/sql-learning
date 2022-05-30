@@ -1,7 +1,7 @@
 思路：
-1.从 RequestAccepted 表中获得通过请求数，从 FriendRequest 表中获得请求总数，相除得到结果。
-2.ROUND 函数取 2 位小数。
-3.当 FriendRequest 表为空时，总请求数，也就是分母，有可能为 0。所以我们需要使用 ifnull 函数来处理这种特殊情况。
+- 1.从 RequestAccepted 表中获得通过请求数，从 FriendRequest 表中获得请求总数，相除得到结果。
+- 2.ROUND 函数取 2 位小数。
+- 3.当 FriendRequest 表为空时，总请求数，也就是分母，有可能为 0。所以我们需要使用 ifnull 函数来处理这种特殊情况。
 
 
 ```sql
