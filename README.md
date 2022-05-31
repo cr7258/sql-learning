@@ -50,6 +50,7 @@
 | [607. 销售员](https://leetcode.cn/problems/sales-person/) | [SQL](join/sales-person.md) |  简单    |
 | [577. 员工奖金](https://leetcode.cn/problems/employee-bonus/) | [SQL](join/employee-bonus.md) |  简单    |
 | [1587. 银行账户概要 II](https://leetcode.cn/problems/bank-account-summary-ii/) | [SQL](join/bank-account-summary-ii.md) |  简单    |
+| [603. 连续空余座位](https://leetcode.cn/problems/consecutive-available-seats/) | [SQL](join/consecutive-available-seats.md) |  简单    |
 
 ## 合并
 
