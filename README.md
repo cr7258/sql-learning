@@ -69,6 +69,7 @@
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
 | [1873. 计算特殊奖金](https://leetcode.cn/problems/calculate-special-bonus/submissions/) | [SQL](condition/calculate-special-bonus.md) |  简单    |
 | [608. 树节点](https://leetcode.cn/problems/tree-node/) | [SQL](condition/tree-node.md) |  中等    |
+| [1393. 股票的资本损益](https://leetcode.cn/problems/capital-gainloss/) | [SQL](condition/capital-gainloss.md) |  中等    |
 
 ## 过滤
 
