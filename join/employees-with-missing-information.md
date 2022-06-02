@@ -1,9 +1,9 @@
 
 思路：
-1.UNION ALL 联合多表，保留两个表中的记录
-2.GROUP BY 按照 id 分组
-3.HAVING 条件筛选
-4.ORDER BY 升序排序
+- 1.UNION ALL 联合多表，保留两个表中的记录
+- 2.GROUP BY 按照 id 分组
+- 3.HAVING 条件筛选
+- 4.ORDER BY 升序排序
 ```sql
 SELECT employee_id FROM
 (
