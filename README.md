@@ -20,8 +20,8 @@
 
 | 题目                                                         | 解法                                | 难度 |
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
-| [177. 第N高的薪水](https://leetcode.cn/problems/nth-highest-salary/) | [SQL](function/nth-highest-salary.md) |  中等    |
-
+| [177. 第N高的薪水](https://leetcode.cn/problems/nth-highest-salary/) | [SQL](sort/nth-highest-salary.md) |  中等    |
+| [586. 订单最多的客户](https://leetcode.cn/problems/customer-placing-the-largest-number-of-orders/submissions/) | [SQL](sort/customer-placing-the-largest-number-of-orders.md) |  简单   |
 
 ## 修改
 | 题目                                                         | 解法                                | 难度 |
@@ -70,6 +70,7 @@
 | [1873. 计算特殊奖金](https://leetcode.cn/problems/calculate-special-bonus/submissions/) | [SQL](condition/calculate-special-bonus.md) |  简单    |
 | [608. 树节点](https://leetcode.cn/problems/tree-node/) | [SQL](condition/tree-node.md) |  中等    |
 | [1393. 股票的资本损益](https://leetcode.cn/problems/capital-gainloss/) | [SQL](condition/capital-gainloss.md) |  中等    |
+| [1407. 排名靠前的旅行者](https://leetcode.cn/problems/top-travellers/) | [SQL](condition/top-travellers.md) |  简单    |
 
 ## 过滤
 
