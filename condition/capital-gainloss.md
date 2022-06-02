@@ -1,5 +1,4 @@
-思路：
-1.使用 CASE WHEN 语句进行条件判断，如果是买入，价格为负数。
+思路：使用 CASE WHEN 语句进行条件判断，如果是买入，价格为负数。
 ```sql
 SELECT stock_name, SUM(
     CASE WHEN operation = 'Buy'

@@ -1,6 +1,5 @@
 
-思路：
-方法一：使用 IF 判断。
+思路 1：使用 IF 判断。
 
 ```sql
 SELECT 
@@ -8,7 +7,7 @@ SELECT
     IF (employee_id % 2 = 1 and left(name, 1) != 'M', salary, 0) as bonus
 FROM Employees; 
 ```
-方法二：使用 CASE WHEN。
+思路 2：使用 CASE WHEN。
 ```sql
 SELECT 
     employee_id,
