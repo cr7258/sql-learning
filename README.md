@@ -51,6 +51,8 @@
 | [577. 员工奖金](https://leetcode.cn/problems/employee-bonus/) | [SQL](join/employee-bonus.md) |  简单    |
 | [1587. 银行账户概要 II](https://leetcode.cn/problems/bank-account-summary-ii/) | [SQL](join/bank-account-summary-ii.md) |  简单    |
 | [603. 连续空余座位](https://leetcode.cn/problems/consecutive-available-seats/) | [SQL](join/consecutive-available-seats.md) |  简单    |
+| [1303. 求团队人数](https://leetcode.cn/problems/find-the-team-size/) | [SQL](join/find-the-team-size.md) |  简单    |
+| [1158. 市场分析 I](https://leetcode.cn/problems/market-analysis-i/) | [SQL](join/market-analysis-i.md) |  简单    |
 
 ## 合并
 
@@ -71,6 +73,7 @@
 | [608. 树节点](https://leetcode.cn/problems/tree-node/) | [SQL](condition/tree-node.md) |  中等    |
 | [1393. 股票的资本损益](https://leetcode.cn/problems/capital-gainloss/) | [SQL](condition/capital-gainloss.md) |  中等    |
 | [1407. 排名靠前的旅行者](https://leetcode.cn/problems/top-travellers/) | [SQL](condition/top-travellers.md) |  简单    |
+| [610. 判断三角形](https://leetcode.cn/problems/triangle-judgement/) | [SQL](condition/triangle-judgement.md) |  简单    |
 
 ## 过滤
 

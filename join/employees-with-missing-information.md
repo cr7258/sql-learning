@@ -14,5 +14,4 @@ SELECT employee_id FROM
 GROUP BY employee_id
 HAVING count(employee_id) = 1
 ORDER BY employee_id
-
 ```
