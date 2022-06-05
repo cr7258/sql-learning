@@ -53,6 +53,7 @@
 | [603. 连续空余座位](https://leetcode.cn/problems/consecutive-available-seats/) | [SQL](join/consecutive-available-seats.md) |  简单    |
 | [1303. 求团队人数](https://leetcode.cn/problems/find-the-team-size/) | [SQL](join/find-the-team-size.md) |  简单    |
 | [1158. 市场分析 I](https://leetcode.cn/problems/market-analysis-i/) | [SQL](join/market-analysis-i.md) |  简单    |
+| [613. 直线上的最近距离](https://leetcode.cn/problems/shortest-distance-in-a-line/) | [SQL](join/shortest-distance-in-a-line.md) |  简单    |
 
 ## 合并
 
@@ -65,6 +66,7 @@
 | [197. 上升的温度](https://leetcode.cn/problems/rising-temperature/) | [SQL](function/rising-temperature.md) | 简单     |
 | [1141. 查询近30天活跃用户数](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/) | [SQL](function/user-activity-for-the-past-30-days-i.md) | 简单     |
 | [597. 好友申请 I：总体通过率](https://leetcode.cn/problems/friend-requests-i-overall-acceptance-rate/submissions/) | [SQL](function/friend-requests-i-overall-acceptance-rate.md) | 简单     |
+| [1308. 不同性别每日分数总计](https://leetcode.cn/problems/running-total-for-different-genders/) | [SQL](function/running-total-for-different-genders.md) | 中等     |
 
 ## 条件判断
 | 题目                                                         | 解法                                | 难度 |
