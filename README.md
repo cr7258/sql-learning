@@ -15,6 +15,7 @@
 | [1693. 每天的领导和合伙人](https://leetcode.cn/problems/daily-leads-and-partners/) | [SQL](group/daily-leads-and-partners.md) |  简单    |
 | [1741. 查找每个员工花费的总时间](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/) | [SQL](group/find-total-time-spent-by-each-employee.md) |  简单    |
 | [1398. 购买了产品 A 和产品 B 却没有购买产品 C 的顾客](https://leetcode.cn/problems/customers-who-bought-products-a-and-b-but-not-c/) | [SQL](group/customers-who-bought-products-a-and-b-but-not-c.md) |  中等    |
+| [619. 只出现一次的最大数字](https://leetcode.cn/problems/biggest-single-number/) | [SQL](group/biggest-single-number.md) |  简单    |
 
 
 ## 排序
@@ -56,6 +57,7 @@
 | [1158. 市场分析 I](https://leetcode.cn/problems/market-analysis-i/) | [SQL](join/market-analysis-i.md) |  简单    |
 | [613. 直线上的最近距离](https://leetcode.cn/problems/shortest-distance-in-a-line/) | [SQL](join/shortest-distance-in-a-line.md) |  简单    |
 | [1501. 可以放心投资的国家](https://leetcode.cn/problems/countries-you-can-safely-invest-in/) | [SQL](join/countries-you-can-safely-invest-in.md) |  中等    |
+| [1077. 项目员工 III](https://leetcode.cn/problems/project-employees-iii/) | [SQL](join/project-employees-iii.md) |  中等    |
 
 ## 合并
 
